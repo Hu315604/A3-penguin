@@ -46,4 +46,4 @@
 
 ### 2. 项目克隆
 ```bash
-git clone [你的 GitHub 仓库完整链接]
+git clone [https://github.com/Hu315604/A3-penguin.git]
